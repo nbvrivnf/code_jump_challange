@@ -1,0 +1,24 @@
+@media screen and (max-width:546px) {
+header {
+  max-width: 100%;
+  max-height: 120px;
+  padding: 2rem;
+  gap: 1rem;
+  flex-direction: column;
+}
+
+.works_img {
+  flex-direction: column;
+}
+.works_img img {
+  width: 100%;
+}
+
+#contact dt {
+  width: 100%;
+}
+#contact dd {
+  width: 100%;
+}
+}
+
